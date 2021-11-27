@@ -8,24 +8,25 @@ Machine learning models used to predict Canadian mortgage rates, average househo
 # To-Dos
 
 ## Mortagage rate
-### How does the rate changes in the future
-
-### Major factors affect Mortgage rate => neural network
+### 1. How does the rate changes in the future? Major factors affect Mortgage rate 
+### Neural network
 
 * Inflation rate 
 * GDP growth
 * employment rate 
 * Polity interest rate 
 * Purchasing Power of Dollar
+
+
 ## Affordability
 ### Machine Learning Models Prediction
-* Prediction model of average household income in the future 
 
+* Prediction model of average household income in the future 
 * prediction model of average mortage(total + monthly) in the future s
 
 ## Housing Market sentiment Analysis
-
 ### NLP on mortgage
+
 * Articles
 * Analysis Type
     
